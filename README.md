@@ -2,19 +2,19 @@
 
 ## Created by: Linah Sofi
 
----
+
 
 ## 📝 Overview
 Mom’s Mission Board is a React-based chore tracking app designed for moms to assign, view, and manage daily tasks for their children. Kids can mark chores complete, and parents can track progress. The app also features a feedback form for comments, suggestions, or reward requests!
 
----
+
 
 ## 🔍 User Stories
 1. As a mom, I want to add new chores so I can organize what needs to be done.
 2. As a child, I want to mark my chores complete so I feel accomplished.
 3. As a parent, I want to filter chores to focus on what’s still pending.
 
----
+
 
 ## 🗂 Planning Documents
 - Wireframes for `/about`, `/chores`, and `/feedback` pages  
@@ -23,7 +23,7 @@ Mom’s Mission Board is a React-based chore tracking app designed for moms to a
 ## 🌈 Preview
 ![Screenshot of Mom’s Mission Board homepage](./planning/ScreenShot.png)
 
----
+
 
 ## 🛠 Technologies Used
 - React
@@ -32,7 +32,7 @@ Mom’s Mission Board is a React-based chore tracking app designed for moms to a
 - useState hook
 - Custom CSS
 
----
+
 
 ## 🌱 Future Improvements
 1. Add localStorage or Firebase to save chores between visits
