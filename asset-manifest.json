@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moms-mission-board/static/css/main.08b9da60.css",
+    "main.js": "/moms-mission-board/static/js/main.594f14d8.js",
+    "index.html": "/moms-mission-board/index.html",
+    "main.08b9da60.css.map": "/moms-mission-board/static/css/main.08b9da60.css.map",
+    "main.594f14d8.js.map": "/moms-mission-board/static/js/main.594f14d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b9da60.css",
+    "static/js/main.594f14d8.js"
+  ]
+}
